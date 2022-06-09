@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">client</string>
+
+    <string name="back_more_quit">再按一次返回键退出程序</string>
+</resources>
